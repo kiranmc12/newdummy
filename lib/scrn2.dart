@@ -9,6 +9,7 @@ class hey extends StatelessWidget {
       child:SingleChildScrollView(
 
         child: Container(
+          decoration: BoxDecoration(border: Border.fromBorderSide(BorderSide.none)),
           
         ),
       ) ,
